@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quiz 1</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <!--welcome activity -->
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <!--login & signup activity -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="re_type_your_password">Re-type your password</string>
+    <string name="birthday">Birthday</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="term_and_conditions">I have read and agree with the above terms and conditions</string>
+
+    <!--Warning Toast-->
+
+    <string name="email_warning">Your email is not valid or empty</string>
+    <string name="terms"><![CDATA[Please check term & conditions]]></string>
+    <string name="error_email">Email Already Exists</string>
+    <string name="dont_match">Your password do not match!</string>
+    <string name="pw_required">Password is required!</string>
+    <string name="bd_required">Your birthday is required!</string>
+    <string name="username_required">Username is required!</string>
+    <string name="fail_login">Email or Password is wrong!</string>
+
+
+</resources>
